@@ -3,7 +3,7 @@
 ## Contacts
 - Location: Novosibirsk, Russia
 - Email: anastasi.bogdanova333@gmail.com
-- Telegram: [@BogdAlice](t-do.ru/BogdAlice)
+- Telegram: [@BogdAlice](https://t.me/BogdAlice)
 - GitHub: [BogdAlice](https://github.com/BogdAlice)
 
 ## About me
