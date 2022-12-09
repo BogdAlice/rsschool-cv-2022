@@ -3,11 +3,11 @@
 ## Contacts
 - Location: Novosibirsk, Russia
 - Email: anastasi.bogdanova333@gmail.com
-- Telegram: @BogdAlice
+- Telegram: [@BogdAlice](t-do.ru/BogdAlice)
 - GitHub: [BogdAlice](https://github.com/BogdAlice)
 
 ## About me
-I am 27 years pld. My goal is to change my career. I want to get knowledge and skills that will be enough for employment in a company.
+I am 27 years old. My goal is to change my career. I want to get knowledge and skills that will be enough for employment in a company.
 
 ## Skills
 - HTML5
@@ -57,8 +57,8 @@ Omsk State University, economist
 ### Courses
 - Udemi - [Web developer](https://www.udemy.com/course/webdeveloper/)(in progress)
 - The Rolling Scopes - [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/) (in progress)
--  Udemi - [JavaScript+React full](https://www.udemy.com/course/javascript_full/) (in future)
+- Udemi - [JavaScript+React full](https://www.udemy.com/course/javascript_full/) (in future)
 
 ### Language
-Russia - native
-English - Pre-Intermediate (in progress)
+- Russia - native
+- English - Pre-Intermediate (in progress)
