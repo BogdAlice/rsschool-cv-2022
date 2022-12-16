@@ -1,4 +1,64 @@
+:root {
+    --text-color: #5ea5ef;
+    --text-color2: #88eda3;
+}
 body {
     font-family: 'Josefin Sans', sans-serif;
+    color: #5ea5ef;  
+    
 }
 
+.header {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.nav_buttons {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 25px;
+    padding-left: 0;
+}
+
+.link {
+    text-decoration: none;
+    transition: 0.2s;
+}
+.link:visited {
+    color: var(--text-color);
+}
+.link:hover, link:active {
+    color: var(--text-color2)
+    
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 40px;
+    font-size: 26px;
+}
+.header_left .header_photo {
+    width: 410px;
+    border-radius: 100%;   
+}
+
+.contact_icon {
+   max-width: 50px;
+}
+.contact_icon_github {    
+    width: 70px;
+    right: 10px;
+}
+
+
+img { 
+    display: block;
+}
+
+.contact_block {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
